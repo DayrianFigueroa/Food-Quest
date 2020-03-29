@@ -1,0 +1,7 @@
+﻿  game.cpp
+c:\users\dayri\source\repos\foodquest_2drpg\foodquest_2drpg\game.cpp(82): warning C4244: 'argument': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  FoodQuest_2DRPG.vcxproj -> C:\Users\dayri\source\repos\FoodQuest_2DRPG\Debug\FoodQuest_2DRPG.exe
